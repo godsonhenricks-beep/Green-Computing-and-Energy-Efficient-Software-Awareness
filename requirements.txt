@@ -1,0 +1,2 @@
+# Standard library only for the benchmark. Optional:
+# codecarbon>=2.3   # measure emissions more realistically
